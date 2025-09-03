@@ -2,4 +2,4 @@ Hi, I’m @blazyhex.
 
 *Haskell*, *C*, *Java*, *Kotlin* dev
 
-**Encrypt everything, trust nothing. In XOR we trust.**
+**Encrypt everything, trust nothing.**
